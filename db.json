@@ -1,0 +1,8 @@
+{
+  "players": [
+    { "id": 1, "name": "Dario", "level": "pro" },
+    { "id": 2, "name": "Dan", "level": "beginner" },
+    { "id": 3, "name": "Rahul", "level": "intermediate" },
+    { "id": 4, "name": "Darius", "level": "intermediate" }
+  ]
+}
